@@ -1,5 +1,8 @@
 ﻿//I will give you an integer. Give me back a shape that is as long and wide as the integer. The integer will be a whole number between 1 and 50.
 
+
+
+
 //var list = new List<object>() { 1, 2, "aasf", "1", "123", 123 };
 //var a = list.Where(x => x.GetType() == typeof(int)).Cast<int>();
 
